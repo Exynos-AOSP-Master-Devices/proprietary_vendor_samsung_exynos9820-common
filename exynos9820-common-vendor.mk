@@ -104,6 +104,7 @@ PRODUCT_PACKAGES += \
     libaudioroute.exynos9820 \
     libtinyalsa.exynos9820 \
     libSEF.quram \
+    libcrypto-compat \
     libengmode_client \
     libflicker_sec \
     libhwjsqz \
